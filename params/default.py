@@ -29,5 +29,9 @@ inner_arc = 0
 
 tip_radius = .2 * 25.4
 
+# fillet edges
+# check ../butt_plug.png for edges
+fillets = [1,2,3,4,5]
+
 threaded_hole_id = 0
 
